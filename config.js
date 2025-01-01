@@ -17,6 +17,5 @@ FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
 ANTI_LINK: process.env.ANTI_LINK || "false",
 ANTI_BAD: process.env.ANTI_BAD || "true",   
 READ_MESSAGE: process.env.READ_MESSAGE || "true", 
-AI_CHAT: process.env.AI_CHAT || "false",  
 ANTI_DELETE : process.env.ANTI_DELETE || "true", 
 };
